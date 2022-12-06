@@ -1,14 +1,8 @@
 # Shooting_Game
 > 使用UE4.27制作的简单射击游戏。
 ## 展示：
-```html
-<video controls preload="auto">
-  <source src="https://cloud.fullcomb.top/public/share/show.mp4" type="video/mp4">
-</video>
-```
-> github的readme似乎不能嵌入视频
 
-详见[这里](https://cloud.fullcomb.top/public/share/show.mp4?preview)
+https://user-images.githubusercontent.com/68995451/205855432-d91ca921-e695-45fc-871a-7a19b60580a4.mp4
 
 ## 存在的问题
 1. 击飞的物理效果。开启了物理后，子弹击中敌人会出现会螺旋升天的鬼畜效果。
